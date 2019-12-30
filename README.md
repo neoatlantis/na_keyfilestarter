@@ -30,7 +30,7 @@ that database much, you have set both a keyfile and a password to be entered
 for decryption.
 
 However both factors here may be forced to be given out, if someone threatens
-you. If you cannot deny (e.g. someone is certain to find something of interset
+you. If you cannot deny (e.g. someone is certain to find something interest
 from your computer), then at least you can nullify their efforts at the time
 they attempt a decryption. Setting a game rule like this, they might think once
 again.
